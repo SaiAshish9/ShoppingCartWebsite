@@ -1,5 +1,6 @@
 # ShoppingCartWebsite
 This website uses stripeApi in order to facilitate transactions.
+
 Few screenshots of this website are as follows:
 ![Capture4](https://user-images.githubusercontent.com/43849911/64119930-95a7f600-cdb8-11e9-9b66-0d70f786d277.JPG)
 
