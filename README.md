@@ -1,2 +1,3 @@
 # ShoppingCartWebsite
-This website is not completed yet!
+This website uses stripeApi in order to facilitate transactions.
+Few screenshots of this website are as follows:
