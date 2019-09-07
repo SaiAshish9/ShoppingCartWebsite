@@ -1,5 +1,5 @@
 # ShoppingCartWebsite
-This website uses stripeApi in order to facilitate transactions,geospatial queries,pug templates,error handling,multer,nodemailer and sendgrid etc.
+This website uses stripeApi in order to facilitate transactions,geospatial queries,pug templates,error handling,multer,nodemailer,mapbox and sendgrid etc.
 
 Few screenshots of this website are as follows:
 ![Capture](https://user-images.githubusercontent.com/43849911/64470969-fcd2fb00-d168-11e9-9a9f-483d545aa149.JPG)
